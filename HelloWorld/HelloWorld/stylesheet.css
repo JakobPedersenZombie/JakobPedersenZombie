@@ -1,0 +1,14 @@
+html,body{
+
+    height: 100%;
+    margin:0;
+    background-image:image(and);
+    font-size: 0px;
+
+}
+.h1{
+color: #987987;
+
+
+font-family: sans-serif;
+}
